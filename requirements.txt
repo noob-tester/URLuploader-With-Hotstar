@@ -9,4 +9,4 @@ requests
 tgcrypto
 # youtube-dl
 #git+https://github.com/l1ving/youtube-dl.git
-git+https://github.com/TGExplore/youtube-dl.git
+git+https://github.com/TGExplore/youtube-dl-1.git
