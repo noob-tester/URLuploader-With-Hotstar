@@ -2,6 +2,8 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
+original repo https://github.com/prgofficial/URLuploader-With-Hotstar
+
 
 **My Features**:
 
@@ -20,3 +22,9 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 #### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+
+
+
+#### The Easy Way mine......
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/noob-tester/URLuploader-With-Hotstar)
