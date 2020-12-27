@@ -28,7 +28,7 @@
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": ""
+      "value": "",
       "required": false
     },
     "APP_ID": {
