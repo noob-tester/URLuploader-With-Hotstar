@@ -10,12 +10,7 @@ requests
 tgcrypto
 
 
-youtube-dl
-git+git://github.com/MyTestBotZ/youtube-dl-2
-#git+git : //github.com/MyTes tBotZ/youtube - dl-2 .git
-#git+https : //github.com/ytdl-org/youtube - dl
-#git+https : //github. com/Esther - Lopez/youtube - dl- 1.git
-#git+https : //github.com/ytdl-org/youtube - dl
-#git+https : //github. com/Esther - Lopez/youtube - dl- 1
-# git+https://github.com/l1ving/youtube-dl.git
-# git+https://github.com/TGExplore/youtube-dl-1.git
+#youtube-dl
+git+git://github.com/MyTestBotZ/youtube-dl-2.git
+git+https://github.com/ytdl-org/youtube-dl
+#git+https://github.com/Esther-Lopez/youtube-dl-1.git
