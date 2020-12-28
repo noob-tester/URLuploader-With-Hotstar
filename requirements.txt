@@ -13,4 +13,5 @@ tgcrypto
 #youtube-dl
 #git+git://github.com/MyTestBotZ/youtube-dl-2.git
 #git+https://github.com/ytdl-org/youtube-dl
-git+https://github.com/Esther-Lopez/youtube-dl-1.git
+#git+https://github.com/Esther-Lopez/youtube-dl-1.git
+git+https://github.com/TGExplore/youtube-dl-1.git
